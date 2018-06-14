@@ -1,4 +1,14 @@
 playAroundGit
 =============
 
-Learn git by doing.
+Learn gitflow
+
+### master
+
+### develop
+
+### feature
+
+### release
+
+### hotfix
