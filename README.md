@@ -1,7 +1,7 @@
 playAroundGit
 =============
 
-Learn gitflow
+Learn gitflow.
 
 ### master
 
