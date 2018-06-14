@@ -3,12 +3,14 @@ playAroundGit
 
 Learn gitflow.
 
-### master
+Git flow branches
 
-### develop
+1. master
 
-### feature
+2. develop
 
-### release
+3. feature
 
-### hotfix
+4. release
+
+5. hotfix
